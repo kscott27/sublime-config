@@ -1,0 +1,14 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"auto-save",
+		"CMake",
+		"Dockerfile Syntax Highlighting",
+		"MarkdownPreview",
+		"Package Control"
+	]
+}
